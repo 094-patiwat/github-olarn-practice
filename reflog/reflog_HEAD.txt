@@ -1,0 +1,34 @@
+Evidence: Part 9 – Repository Activity
+Scope: HEAD movements
+Generated: 2026-02-19 20:29:33 UTC
+----------------------------------------
+ea75480 HEAD@{0}: checkout: moving from main to task/07-evidence-reflog
+ea75480 HEAD@{1}: pull: Fast-forward
+adb26d0 HEAD@{2}: checkout: moving from task/05-recovery to main
+cf56f83 HEAD@{3}: commit: Recovery: Restore previous state
+34bb319 HEAD@{4}: commit: corrupted file
+adb26d0 HEAD@{5}: checkout: moving from main to task/05-recovery
+adb26d0 HEAD@{6}: pull: Fast-forward
+6e0df1e HEAD@{7}: checkout: moving from task/04-conflict-resolve to main
+6ac4885 HEAD@{8}: commit (merge): Merge: Resolve conflict on index.html
+7fb8f40 HEAD@{9}: checkout: moving from task/03-conflict-create to task/04-conflict-resolve
+7fb8f40 HEAD@{10}: checkout: moving from task/03b-conflict-create-alt to task/03-conflict-create
+b13ec5a HEAD@{11}: checkout: moving from main to task/03b-conflict-create-alt
+6e0df1e HEAD@{12}: checkout: moving from task/03b-conflict-create-alt to main
+b13ec5a HEAD@{13}: commit: Conflict: Modify same line in index.html
+6e0df1e HEAD@{14}: checkout: moving from task/03-conflict-create to task/03b-conflict-create-alt
+7fb8f40 HEAD@{15}: commit: Conflict: Modify same line in index.html
+6e0df1e HEAD@{16}: checkout: moving from main to task/03-conflict-create
+6e0df1e HEAD@{17}: pull: Fast-forward
+7532efa HEAD@{18}: checkout: moving from task/03-conflict-create to main
+7532efa HEAD@{19}: checkout: moving from main to task/03-conflict-create
+7532efa HEAD@{20}: checkout: moving from task/02-feature-index to main
+ecc2574 HEAD@{21}: commit: Feature: Update index.html content
+736d248 HEAD@{22}: commit: Feature: Update index.html content
+ce8d5f8 HEAD@{23}: commit: Feature: Update index.html content
+7532efa HEAD@{24}: checkout: moving from main to task/02-feature-index
+7532efa HEAD@{25}: pull: Fast-forward
+daa77eb HEAD@{26}: checkout: moving from task/01-collaborators to main
+8acb41d HEAD@{27}: commit: Feature: Setup collaborators
+daa77eb HEAD@{28}: checkout: moving from main to task/01-collaborators
+daa77eb HEAD@{29}: clone: from https://github.com/094-patiwat/github-olarn-practice.git

@@ -1,0 +1,6 @@
+Evidence: Branch activity log
+Branch: task/04-conflict-resolve
+Generated: 2026-02-19 20:29:33 UTC
+----------------------------------------
+6ac4885 task/04-conflict-resolve@{0}: commit (merge): Merge: Resolve conflict on index.html
+7fb8f40 task/04-conflict-resolve@{1}: branch: Created from task/03-conflict-create
