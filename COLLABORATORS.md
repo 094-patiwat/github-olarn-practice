@@ -1,7 +1,7 @@
 # Collaborators
 
 ## Owner
-- Full Name: Patiwat Pasomsri
+- Full Name: Patiwat Pasomsrii
 
 ## Collaborator (Simulated)
 - GitHub Actions Bot
