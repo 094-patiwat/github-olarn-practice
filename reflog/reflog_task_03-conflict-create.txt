@@ -1,0 +1,6 @@
+Evidence: Branch activity log
+Branch: task/03-conflict-create
+Generated: 2026-02-19 20:29:33 UTC
+----------------------------------------
+7fb8f40 task/03-conflict-create@{0}: commit: Conflict: Modify same line in index.html
+6e0df1e task/03-conflict-create@{1}: branch: Created from main
